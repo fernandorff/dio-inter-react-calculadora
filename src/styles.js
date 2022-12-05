@@ -12,6 +12,7 @@ justify-content: center;
 export const Content = styled.div`
     background-color: #FFF;
     width: 80%;
+    max-width: 400px;
 
 `
 
